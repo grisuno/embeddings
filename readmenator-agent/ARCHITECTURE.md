@@ -6,4 +6,7 @@
 
 ## External Imports
 
-- `app.py` -> matplotlib.pyplot, mpl_toolkits.mplot3d, numpy, requests
+- `app.py` -> `matplotlib.pyplot`
+- `app.py` -> `mpl_toolkits.mplot3d`
+- `app.py` -> `numpy`
+- `app.py` -> `requests`

@@ -1,4 +1,6 @@
 # API
 
 ## app.py
-- `get_embedding` (function) `app.py:20` `def get_embedding(text, model)`
+
+### get_embedding (function) `def get_embedding(text, model)`
+- Defined: `app.py:20`
